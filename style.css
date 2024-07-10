@@ -10,12 +10,7 @@ nav{
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-
-    
-}
-.container2{
-    margin: 40px 0px;
+    justify-content: space-between;    
 }
 ul{
     display: flex;
@@ -29,43 +24,29 @@ img{
     height: 300px;
     width: 300px;
 }
-.container2{
+.first{
     display: flex;
     justify-content: space-between;
-    /* margin: 0px 50px; */
+    margin: 20px 0px;
+}
+.second{
+    display: flex;
+    justify-content: space-between;
 }
 .box2{
     margin-left: 1050px;
 }
-.box3{
+footer{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
-.container3{
-    display: flex;
-    justify-content: space-between;
-    margin: 40px 0px;
-}
-.box4{
-    margin: 0px 10px 0px 0px;
-}
+
 a{
     display: flex;
     flex-direction: column;
 }
-footer{
-    display: flex;
-    justify-content: space-between;
-}
-.box5{
-    margin: 0px 20px;
-  
-}
 button{
     height: 40px;
     width: 80px;
-}
-.image{
-    height: 50px;
-    width: 50px;
 }
